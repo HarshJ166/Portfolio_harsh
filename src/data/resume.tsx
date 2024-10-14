@@ -121,6 +121,8 @@ export const DATA = {
       href: "https://github.com/YourGithubUsername/good-grocery",
       dates: "2023",
       active: true,
+      image:"",
+      video:"",
       description:
         "Developed a scalable online platform for farm-fresh grocery ordering using the MERN stack.",
       technologies: [
@@ -142,6 +144,8 @@ export const DATA = {
       href: "https://github.com/YourGithubUsername/meraki-platina",
       dates: "2023",
       active: true,
+      image:"",
+      video:"",
       description:
         "Designed and developed a custom landing page for a builder's website using HTML, CSS, and JavaScript.",
       technologies: [
@@ -162,6 +166,8 @@ export const DATA = {
       href: "https://github.com/YourGithubUsername/market-matrix",
       dates: "2023",
       active: true,
+      image:"",
+      video:"",
       description:
         "Built a predictive model using machine learning algorithms to forecast stock market prices.",
       technologies: [
