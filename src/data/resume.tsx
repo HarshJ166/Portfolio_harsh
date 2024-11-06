@@ -12,7 +12,7 @@ export const DATA = {
     "Software Developer. I love building things and helping people.",
   summary:
     "I am a Software Developer pursuing a B.E. in Information Technology. I have experience in full-stack development, Edge AI, and various programming languages and technologies.",
-  avatarUrl: "/Harsh Jajal.jpeg",
+  avatarUrl: "/Harsh_Jajal.png",
   skills: [
     "Java",
     "Python",
